@@ -1,3 +1,3 @@
 # test-github
 
-GitHub testing. How does "GitHub" work
+GitHub testing. How does `GitHub` work
