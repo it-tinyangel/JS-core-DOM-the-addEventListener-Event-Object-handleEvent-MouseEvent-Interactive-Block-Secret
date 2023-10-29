@@ -1,5 +1,5 @@
 # test-github
 
-# 2
+# 1
 
 GitHub testing. How does `GitHub` work
