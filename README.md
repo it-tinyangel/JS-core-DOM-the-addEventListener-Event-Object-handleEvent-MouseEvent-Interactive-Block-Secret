@@ -4,4 +4,4 @@
 
 **GitHub testing.**
 
-<br> _How does **[GitHub]([&](https://github.com/)https://github.com/)** work_
+<br> _How does `[GitHub](https://github.com/)https://github.com/)` work_
