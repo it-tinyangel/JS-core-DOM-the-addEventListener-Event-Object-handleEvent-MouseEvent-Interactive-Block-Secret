@@ -1,11 +1,7 @@
-
-  # test-github
+# test-github
   
 ## 1
 
 **GitHub testing.**
 
-How does `GitHub` work
-<br> _How does `GitHub` work_
-
-
+<br> _How does `[GitHub]`([&](https://github.com/)https://github.com/) work_
