@@ -5,4 +5,4 @@
 **GitHub testing.**
 
 How does
-<br>_[GitHub](https://github.com/)https://github.com/)_ work
+<br> `[GitHub](https://github.com/)` work
