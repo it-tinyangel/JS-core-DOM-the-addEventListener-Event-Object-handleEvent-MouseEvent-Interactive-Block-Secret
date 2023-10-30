@@ -1,5 +1,8 @@
 # test-github
+  
+## 2
 
-# 2
+**GitHub testing.**
 
-GitHub testing. How does `GitHub` work
+How does
+<br> _[GitHub](https://github.com/)_ work
