@@ -1,5 +1,7 @@
 # test-github
 
-_1_
+## 1
 
-GitHub testing. How does `GitHub` work
+**GitHub testing.**
+
+_How does `GitHub` work_
