@@ -6,3 +6,5 @@
 
 How does
 <br> _[GitHub](https://github.com/)_ work
+
+`#RRGGBB`
