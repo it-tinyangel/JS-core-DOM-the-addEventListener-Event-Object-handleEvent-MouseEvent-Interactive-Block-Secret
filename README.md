@@ -1,10 +1,5 @@
-# test-github
-  
-## 1
+## Module 3. JS Core. Lesson 12. Task 2
 
-**GitHub testing.**
+### The Document Object Model. The HTML DOM Element addEventListener(), Event Object, Object handlers handleEvent, MouseEvent Object
 
-How does
-<br> _[GitHub](https://github.com/)_ work.
-<br>
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
+### Modifying the color of background and text to an elements of HTML on Mouseover and Mouseclick
