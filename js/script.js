@@ -29,7 +29,7 @@ function handleMouseLeave() {
 	}
 }
 
-// Event handlerі
+// Event handlers
 box.addEventListener('mouseover', handleHover);
 box.addEventListener('mouseout', handleHover);
 box.addEventListener('mousedown', handleClick);
