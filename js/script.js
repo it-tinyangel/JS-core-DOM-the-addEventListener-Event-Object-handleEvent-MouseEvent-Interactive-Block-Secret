@@ -1,3 +1,4 @@
+// Get elements from the DOM by their IDs
 const box = document.getElementById('box');
 const boxInfo = document.getElementById('boxInfo');
 
@@ -6,19 +7,21 @@ function changeText(text) {
 	boxInfo.innerText = text;
 }
 
-// Function to mouseover event handler
+// Function to handle mouse hover event
 function handleHover() {
 	box.classList.toggle('hovered');
-	changeText(box.classList.contains('clicked') ? 'And I\'ll not say!' : 'Do you want to know which one?');
+	const newText = box.classList.contains('clicked') ? 'And I\'ll not say!' : 'Do you want to know which one?';
+	changeText(newText);
 }
 
-// Function to mouseclick event handler
+// Function to handle mouse click event
 function handleClick() {
 	box.classList.toggle('clicked');
-	changeText(box.classList.contains('clicked') ? 'And I\'ll not say!' : 'Do you want to know which one?');
+	const newText = box.classList.contains('clicked') ? 'And I\'ll not say!' : 'Do you want to know which one?';
+	changeText(newText);
 }
 
-// Function to `mouse exits the block` event handler
+// Function to handle mouse leave event
 function handleMouseLeave() {
 	if (!box.classList.contains('clicked')) {
 		box.classList.remove('hovered');
@@ -26,10 +29,9 @@ function handleMouseLeave() {
 	}
 }
 
+// Event handlerі
 box.addEventListener('mouseover', handleHover);
 box.addEventListener('mouseout', handleHover);
-
 box.addEventListener('mousedown', handleClick);
 box.addEventListener('mouseup', handleClick);
-
-box.addEventListener('mouseleave', handleMouseLeave);
+box.addEventListener('mouseout', handleMouseLeave);
