@@ -16,7 +16,7 @@ This repository contains an interactive box implemented with HTML, CSS, and Java
 
 1. Clone the repository:
 ```
-https://github.com/it-tinyangel/JS-core-DOM-the-addEventListener-Event-Object-handleEvent-MouseEvent-Interactive-Block-Secret.git
+git clone https://github.com/it-tinyangel/JS-core-DOM-the-addEventListener-Event-Object-handleEvent-MouseEvent-Interactive-Block-Secret.git
 ```
 2. Open the `index.html` file in your browser.
 3. Interact with the box by hovering and clicking to see the dynamic changes.
